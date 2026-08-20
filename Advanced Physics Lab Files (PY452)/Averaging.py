@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #This opens the directory for the images that need to be averaged (make sure they're different)
+#Change filename and location as needed
 location = "C:\\Users\\Connor Donovan\\Desktop\\PY452\\"
 file1 = "Clean Wafer\\Region 1\\"
 file2 = "Clean Wafer\\Region 2\\"
