@@ -1,7 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-location = "C:\\Users\\Connor Donovan\\Desktop\\PY452\\"
+#Change location/filename as necessary
+location = ""
 file = "Film\\Region 2\\correlations\\"
 name = "PolFilm_1um_R2cor"
 
